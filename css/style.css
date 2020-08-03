@@ -1,0 +1,31 @@
+.section-flex {
+  padding-top: 30px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+}
+
+.projects {
+  width: 980px;
+  display: flex;
+}
+
+.project {
+  height: 270px;
+  width: 300px;
+  margin: 30px;
+  background-color: GRAY;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  background-color: GRAY;
+  width: 920px;
+  height: 400px;
+  display: flex;
+}

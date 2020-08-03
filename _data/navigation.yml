@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Uga"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: About
+    url: configuration.html
+
+  - title: Team
+    url: deployment.html
+
+  - title: Partners
+    url: configuration.html
